@@ -1,6 +1,6 @@
 # Digital marketplace on Ethererum
 
-This is the completed version of the NFT marketplace app from the attached [workshop](https://github.com/dabit3/full-stack-ethereum-marketplace-workshop).
+This is the completed version of the NFT marketplace app 
 
 ## Getting Started
 
