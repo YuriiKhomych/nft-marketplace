@@ -1,6 +1,6 @@
 # Digital marketplace on Ethererum
 
-This is the completed version of the NFT marketplace app 
+NFT marketplace app 
 
 ## Getting Started
 
